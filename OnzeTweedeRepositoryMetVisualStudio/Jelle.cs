@@ -6,9 +6,6 @@ namespace OnzeTweedeRepositoryMetVisualStudio
 {
     class Jelle
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("test123");
-        }
+        
     }
 }
