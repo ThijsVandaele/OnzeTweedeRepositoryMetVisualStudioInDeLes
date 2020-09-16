@@ -6,9 +6,6 @@ namespace OnzeTweedeRepositoryMetVisualStudio
 {
     class Ahmed
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("test123");
-        }
+        
     }
 }
