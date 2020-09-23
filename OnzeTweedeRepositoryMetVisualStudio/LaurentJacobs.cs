@@ -4,7 +4,7 @@ using System.Text;
 
 namespace OnzeTweedeRepositoryMetVisualStudio
 {
-    class MijnEigenNaamIsLaurent
+    class LaurentJacobs
     {
         
     }
