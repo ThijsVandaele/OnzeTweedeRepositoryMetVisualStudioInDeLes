@@ -1,4 +1,5 @@
-﻿using System;
+﻿using OnzeTweedeRepositoryMetVisualStudio.Bibliotheek;
+using System;
 
 namespace OnzeTweedeRepositoryMetVisualStudio
 {
@@ -6,13 +7,6 @@ namespace OnzeTweedeRepositoryMetVisualStudio
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Geef een getal:");
-
-            int getal = ConsoleHelper.GetInteger();
-
-            int som = getal + getal;
-
-            Console.WriteLine($"De som is: {som}");
         }
     }
 }
